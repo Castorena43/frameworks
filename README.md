@@ -42,13 +42,13 @@ Ejecutar el comando `python main.py`
 3. Levantar el servicio desde consola con `adonis serve`
 
 ## Endpoints
-### POST http://127.0.0.1:3333/api/create-people
+### POST http://127.0.0.1:3333/create-people
 **Parameters**
 |          Name | Required |  Type   | 
 | -------------:|:--------:|:-------:|
 |     `name` | required | string  |                                                          |
 |     `email` | required | string  |
 
-### GET http://127.0.0.1:3333/api/people
+### GET http://127.0.0.1:3333/people
 
     
